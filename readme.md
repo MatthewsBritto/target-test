@@ -1,3 +1,3 @@
 ## Teste target
 
-Pasta contém  os arquivos com as respostas das questões
+Pasta contém  os arquivos com as resoluções das questões
